@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://freverkle.github.io/sitemap.html.gz
+Sitemap: https://freverkle.github.io/app/sitemap.html.gz
+Sitemap: https://freverkle.github.io/assets/sitemap.html.gz
+Sitemap: https://freverkle.github.io/css/sitemap.html.gz
+Sitemap: https://freverkle.github.io/includes/sitemap.html.gz
+Sitemap: https://freverkle.github.io/item/sitemap.html.gz
+Sitemap: https://freverkle.github.io/src/sitemap.html.gz
